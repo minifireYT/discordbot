@@ -17,7 +17,7 @@ var goBot *discordgo.Session
 
 }*/
 func Start() {
-	goBot, err := discordgo.New("Bot " + "NzQyNTY1MzI0MzAxMjcxMDcx.XzH92Q.UA7UtpZZt_PXfrjtVuYqidvEkic")//連接我的機器人
+	goBot, err := discordgo.New("Bot " + "you token here")//連接我的機器人
 
 	if err != nil {
 		fmt.Println(err.Error())
