@@ -6,4 +6,4 @@
 ### this bot can post image from danbooru
 ---
 # ToDO
-- [ x ] post image from danbooru
+- [x] post image from danbooru
