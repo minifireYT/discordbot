@@ -1,5 +1,5 @@
 # discordbot
-### discord bot using go,that can post image from danbooru
+## discord bot using go,that can post image from danbooru
 
 ### put your bot token at main.go
 ### then you can run the bot
